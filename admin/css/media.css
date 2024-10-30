@@ -1,0 +1,81 @@
+@charset "utf-8";
+
+/* CSS Document */
+@media screen and (max-width:1360px){
+	#dotsstoremain .mmqw-main-table.res-cl .pricing_rules .min_max_select + span input.select2-search__field{width:100%!important;}
+}
+@media screen and (max-width:1300px){
+	header.dots-header .dots-header-right .button-group img{max-height:40px;}
+	header.dots-header .dots-header-right .button-group .button-dots-left{margin-right:10px;}
+	header.dots-header .dots-header-right .logo-detail,header.dots-header .dots-header-right .logo-detail .button-group{width:100%;}
+	header.dots-header .dots-header-right .logo-detail{margin-bottom:15px;padding-left:0;text-align:center;}
+	header.dots-header .dots-logo-main{float:none;width:auto;-webkit-box-sizing:border-box;box-sizing:border-box;text-align:center;}
+}
+@media only screen and (min-width:1181px) and (max-width:1380px){
+	.et-star-rating label{width:22px;height:22px;}
+	#dotsstoremain .dotstore_plugin_sidebar{margin-left:17px;width:calc(100% - 32px);}
+    #dotsstoremain .dots-seperator{margin:0 0 10px 15px;}
+    img.sidebar_plugin_icone{width:38px;}
+    .video-detail ul li{width:100%;padding:0 10px;}
+    .important-link ul li a{font-size:13px!important;line-height:21px;}
+}
+@media screen and (min-width:1200px) and (max-width:1300px){
+	table#tbl-product-fee tr td input#product_fees_conditions_values{width:20em;}
+}
+@media screen and (max-width:1180px){
+	#dotsstoremain .all-pad .dots-settings-inner-main{-ms-flex-wrap:wrap;flex-wrap:wrap;}
+    #dotsstoremain .mmqw-section-left,#dotsstoremain .mmqw-section-right{width:100%;}
+    #dotsstoremain .dots-seperator{display:none;}
+    #dotsstoremain .dotstore_plugin_sidebar{margin:35px auto 30px;max-width:500px;display:block;width:100%;}
+    #dotsstoremain .all-pad.hide-sidebar .dotstore_plugin_sidebar{display:block;}
+	.dots-plugin-details .dots-header-left .plugin-name .desc{line-height:24px;font-size:16px;}
+	#dotsstoremain .all-pad.hide-sidebar .mmqw-section-right{width:100%;}
+	#dotsstoremain .all-pad.hide-sidebar .mmqw-section-left{width:100%;}
+}
+@media screen and (max-width:980px){
+	.dots-header-right .logo-detail strong{font-size:28PX;}
+	.under-table table.table-outer tr td.ur-2 a{margin-bottom:20px;}
+	.under-table table.table-outer tr td.ur-2 a{margin-bottom:20px;}
+	.search{float:none;}
+	#dotsstoremain .mmqw-main-table.res-cl .pricing_rules .min_max_select + span input.select2-search__field{width:200px!important;}
+	#dotsstoremain .mmqw-main-table.res-cl .pricing_rules .min_max_select + span{width:85%!important;}
+}
+@media screen and (max-width:782px){
+	.mmqw-main-table .shipping-method-table tbody tr td input{width:85%;}
+	#dotsstoremain .mmqw-main-table.res-cl .min_max_select + span{width:85%!important;}
+	.mmqw-main-table.res-cl table.form-table.table-outer.shipping-method-table td.forminp textarea{width:85%;display:inline-block;vertical-align:top;}
+	#wpbody .form-table td select{width:85%;}
+}
+@media screen and (max-width:768px){
+	.logo-main{display:block;width:100%;-webkit-box-sizing:border-box;box-sizing:border-box;}
+	.dots-header-right .logo-detail{width:100%;margin-bottom:20px;}
+	.dots-header-right .update-blog{float:left;margin-left:20px;}
+	.menu-main ul li a{padding-left:17px;padding-right:17px;}
+}
+@media screen and (max-width:767px){
+	.dotstore_plugin_supports_feature,.wcblu-main-table,.dotstore_plugin_supports_feature>.dotstore-important-link,.dotstore_plugin_supports_feature>.right-sec{display:block;width:100%;-webkit-box-sizing:border-box;box-sizing:border-box}
+	.dots-header-right,.dots-logo-main{width:100%;float:left;clear:both;-webkit-box-sizing:border-box;box-sizing:border-box}
+	.dots-header-right{width:100%!important}
+	.button-group>div{clear:both;float:left!important;margin-bottom:5px;margin-left:0}
+	.dots-logo-main{padding-bottom:0}
+	.dots-plugin-details{-ms-flex-wrap:wrap;flex-wrap:wrap;}
+	.dots-plugin-details .dots-header-left{width:100%;-ms-flex-preferred-size:100%;flex-basis:100%;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;text-align:center;}
+	.dots-plugin-details .dots-header-left .plugin-name{margin:8px 20px 20px;}
+}
+@media screen and (max-width:650px){
+	.fees_pricing_rules_tab{display:inline-block;}
+	.fees-pricing-rules .fees_pricing_rules{overflow-x:scroll;}
+	header.dots-header .dots-header-right .button-group img{max-height:27px;}
+	#dotsstoremain .button-dots{margin-right:0;}
+	header.dots-header .dots-header-right .button-dots span.support_dotstore_image:last-child{margin:0!important;}
+	.mmqw-main-table.res-cl form div h2{display:block;margin-bottom:10px;}
+	#profile-page .form-table textarea,.form-table span.description,.form-table td input[type=email],.form-table td input[type=password],.form-table td input[type=text],.form-table td select,.form-table td textarea{width:85%;}
+	div#apm_wrap .ap_title label.switch{left:15px;top:3px;}
+}
+@media screen and (max-width:559px){
+	.dots-header-right .logo-detail strong{font-size:24PX;}
+	.menu-main ul li{width:100%!important;margin:0 auto;text-align:center;}
+	.tap{width:100%;overflow:auto;}
+	.search{margin-top:20px;}
+	.shipping-method-rules a#fee-add-field{margin-top:10px;margin-left:20px;display:block;width:100px;}
+}

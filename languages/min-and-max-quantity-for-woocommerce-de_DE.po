@@ -1,0 +1,1953 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Minimum and Maximum Quantity for WooCommerce\n"
+"Report-Msgid-Bugs-To: https://www.multidots.com/contact/\n"
+"POT-Creation-Date: 2022-10-12 10:04+0000\n"
+"PO-Revision-Date: 2024-10-02 10:22+0000\n"
+"Last-Translator: \n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.2\n"
+"X-Domain: woo-shipping-display-mode\n"
+"X-Poedit-KeywordsList: esc_html_e;esc_html;esc_attr_e;esc_attr;__;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/partials/dots-upgrade-dashboard.php:76
+msgid ""
+" Boost customer satisfaction with intuitive and easy-to-use quantity "
+"selectors."
+msgstr ""
+"Steigern Sie die Kundenzufriedenheit mit intuitiven und benutzerfreundlichen "
+"Mengenwählern."
+
+#: admin/partials/dots-upgrade-dashboard.php:75
+msgid ""
+" Perfect for products sold in fixed bundles or requiring specific quantities."
+msgstr ""
+"Perfekt für Produkte, die in festen Paketen verkauft werden oder bestimmte "
+"Mengen erfordern."
+
+#: admin/partials/mmqw-add-new-rule-page.php:946
+msgid "+ Add Group"
+msgstr "+ Gruppe hinzufügen"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1226
+#: admin/partials/mmqw-add-new-rule-page.php:160
+#: admin/partials/mmqw-add-new-rule-page.php:605
+msgid "+ Add Rule"
+msgstr "+ Regel hinzufügen"
+
+#: admin/partials/dots-upgrade-dashboard.php:241
+msgid "1 site"
+msgstr "1 Website"
+
+#: admin/partials/dots-upgrade-dashboard.php:251
+msgid "14-Day money-back guarantee"
+msgstr "14-tägige Geld-zurück-Garantie"
+
+#: admin/partials/dots-upgrade-dashboard.php:254
+msgid "14-Day Satisfaction Guarantee"
+msgstr "14-tägige Zufriedenheitsgarantie"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:951
+msgid ""
+"<strong>We need your support</strong> to keep updating and improving the "
+"plugin. Please <a href=\"%1$s\" target=\"_blank\">help us by leaving a good "
+"review</a> :) Thanks!"
+msgstr ""
+"<strong>Wir brauchen Ihre Unterstützung</strong>, um das Plugin weiter zu "
+"aktualisieren und zu verbessern. Bitte <a href=\"%1$s\" target=\"_blank\">"
+"helfen Sie uns, indem Sie eine gute Bewertung hinterlassen</a> :) Danke!\n"
+
+#: admin/partials/mmqw-add-new-rule-page.php:458
+#: admin/partials/mmqw-add-new-rule-page.php:830
+msgid "Action"
+msgstr "Handlung"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1413
+msgid "Actions"
+msgstr "Aktionen"
+
+#: min-and-max-quantity-for-woocommerce.php:153
+msgid "Activate Plugin"
+msgstr "Plugin aktivieren"
+
+#: admin/partials/mmqw-checkout-settings-page.php:154
+msgid "Add maximum items quantity to add on order page. eg., 10."
+msgstr ""
+"Fügen Sie die maximale Artikelmenge hinzu, die auf der Bestellseite "
+"hinzugefügt werden soll. zB 10."
+
+#: admin/partials/mmqw-checkout-settings-page.php:90
+#| msgid "Add maximum Order quantity to add on order page eg. 10."
+msgid "Add maximum order quantity to add on order page. eg., 10."
+msgstr ""
+"Fügen Sie die maximale Bestellmenge hinzu, die auf der Bestellseite "
+"hinzugefügt werden soll. zB 10."
+
+#: admin/partials/mmqw-checkout-settings-page.php:122
+#| msgid "Add Maximum Order value to add on order page eg. 10."
+msgid "Add maximum order value to add on order page. eg., 10."
+msgstr ""
+"Fügen Sie den maximalen Bestellwert hinzu, der auf der Bestellseite "
+"hinzugefügt werden soll. zB 10."
+
+#: admin/partials/mmqw-checkout-settings-page.php:141
+#| msgid "Add minimum items quantity to add on order page eg. 10."
+msgid "Add minimum items quantity to add on order page. eg., 10."
+msgstr ""
+"Fügen Sie die Mindestmenge der Artikel hinzu, die auf der Bestellseite "
+"hinzugefügt werden soll. zB 10."
+
+#: admin/partials/mmqw-checkout-settings-page.php:77
+#| msgid "Add minimum Order quantity to add on order page eg. 10."
+msgid "Add minimum order quantity to add on order page. eg., 10."
+msgstr ""
+"Fügen Sie eine Mindestbestellmenge hinzu, die auf der Bestellseite "
+"hinzugefügt werden soll. zB 10."
+
+#: admin/partials/mmqw-checkout-settings-page.php:109
+#| msgid "Add minimum Order value to add on order page eg. 10."
+msgid "Add minimum order value to add on order page. eg., 10."
+msgstr ""
+"Fügen Sie einen Mindestbestellwert hinzu, der auf der Bestellseite "
+"hinzugefügt werden soll. zB 10."
+
+#: admin/partials/mmqw-list-rules-page.php:281
+msgid "Add New"
+msgstr "Neue hinzufügen"
+
+#: admin/partials/mmqw-manage-message-page.php:90
+msgid "Add the maximum allows order quantity message for the cart page."
+msgstr ""
+"Fügen Sie die Nachricht über die maximal zulässige Bestellmenge für die "
+"Warenkorbseite hinzu."
+
+#: admin/partials/mmqw-manage-message-page.php:156
+msgid "Add the maximum order item message for the cart page."
+msgstr ""
+"Fügen Sie die Nachricht für die maximale Bestellmenge für die Warenkorbseite "
+"hinzu."
+
+#: admin/partials/mmqw-manage-message-page.php:123
+msgid "Add the maximum order value message for the cart page."
+msgstr ""
+"Fügen Sie die Nachricht zum maximalen Bestellwert für die Warenkorbseite "
+"hinzu."
+
+#: admin/partials/mmqw-manage-message-page.php:77
+msgid "Add the minimum allows order quantity message for the cart page."
+msgstr ""
+"Fügen Sie die Nachricht zur Mindestbestellmenge für die Warenkorbseite hinzu."
+
+#: admin/partials/mmqw-manage-message-page.php:143
+msgid "Add the minimum order item message for the cart page."
+msgstr ""
+"Fügen Sie die Nachricht zum Mindestbestellwert für die Warenkorbseite hinzu."
+
+#: admin/partials/mmqw-manage-message-page.php:110
+msgid "Add the minimum order value message for the cart page."
+msgstr ""
+"Fügen Sie die Nachricht zum Mindestbestellwert für die Warenkorbseite hinzu."
+
+#: admin/partials/mmqw-display-rules.php:70
+#: admin/partials/mmqw-display-rules__premium_only.php:106
+msgid "Add the text before the rules on the product page."
+msgstr "Fügen Sie den Text vor den Regeln auf der Produktseite hinzu."
+
+#: admin/partials/dots-upgrade-dashboard.php:103
+msgid ""
+"Adjust quantity limits based on specific shipping zones to manage regional "
+"demand."
+msgstr ""
+"Passen Sie Mengengrenzen basierend auf bestimmten Versandzonen an, um die "
+"regionale Nachfrage zu steuern."
+
+#: admin/partials/mmqw-add-new-rule-page.php:105
+msgid "Advanced Rules"
+msgstr "Erweiterte Regeln"
+
+#: admin/partials/mmqw-display-rules.php:61
+#: admin/partials/mmqw-display-rules__premium_only.php:97
+msgid "After Add to cart"
+msgstr "Nach dem Hinzufügen zum Warenkorb"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1239
+#: admin/partials/mmqw-add-new-rule-page.php:175
+#: admin/partials/mmqw-add-new-rule-page.php:620
+msgid "All"
+msgstr "Alle"
+
+#: admin/partials/mmqw-checkout-settings-page.php:245
+msgid "All Products"
+msgstr ""
+"Alle Produkte\n"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1258
+#: admin/partials/mmqw-add-new-rule-page.php:195
+#: admin/partials/mmqw-add-new-rule-page.php:640
+msgid "All 🔒"
+msgstr "Alle 🔒"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1236
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1255
+#: admin/partials/mmqw-add-new-rule-page.php:172
+#: admin/partials/mmqw-add-new-rule-page.php:192
+#: admin/partials/mmqw-add-new-rule-page.php:617
+#: admin/partials/mmqw-add-new-rule-page.php:637
+msgid "Any"
+msgstr "Beliebig"
+
+#: admin/partials/dots-upgrade-popup.php:59
+msgid "Apply quantity limits based on product, user, and cart criteria."
+msgstr ""
+"Wenden Sie Mengenbeschränkungen basierend auf Produkt-, Benutzer- und "
+"Warenkorbkriterien an."
+
+#: admin/partials/dots-upgrade-dashboard.php:95
+msgid ""
+"Apply quantity rules to items in the shopping cart based on factors like "
+"applied coupons, shipping methods, and shipping zones."
+msgstr ""
+"Wenden Sie Mengenregeln auf Artikel im Warenkorb an, basierend auf Faktoren "
+"wie angewendeten Coupons, Versandmethoden und Versandzonen."
+
+#: admin/partials/dots-plugin-setup-wizard.php:92
+msgid "Astra"
+msgstr "Astra"
+
+#: admin/partials/dots-plugin-setup-wizard.php:102
+msgid "Be our friend on"
+msgstr "Sei unser Freund"
+
+#: admin/partials/mmqw-display-rules.php:58
+#: admin/partials/mmqw-display-rules__premium_only.php:94
+msgid "Before Add to cart"
+msgstr "Vorher In den Warenkorb legen"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1232
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1251
+#: admin/partials/mmqw-add-new-rule-page.php:167
+#: admin/partials/mmqw-add-new-rule-page.php:187
+#: admin/partials/mmqw-add-new-rule-page.php:612
+#: admin/partials/mmqw-add-new-rule-page.php:632
+msgid "below"
+msgstr "unten"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:254
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1300
+#: admin/partials/mmqw-add-new-rule-page.php:261
+#: admin/partials/mmqw-add-new-rule-page.php:695
+msgid "Best Sellers"
+msgstr "Bestseller"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:263
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1319
+#: admin/partials/mmqw-add-new-rule-page.php:280
+#: admin/partials/mmqw-add-new-rule-page.php:714
+msgid "Best Sellers 🔒"
+msgstr "Bestseller 🔒"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:256
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1347
+#: admin/partials/mmqw-add-new-rule-page.php:314
+#: admin/partials/mmqw-add-new-rule-page.php:749
+msgid "Cart Coupon"
+msgstr "Warenkorb-Gutschein"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:265
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1372
+#: admin/partials/mmqw-add-new-rule-page.php:340
+#: admin/partials/mmqw-add-new-rule-page.php:775
+msgid "Cart Coupon 🔒"
+msgstr "Warenkorb-Gutschein 🔒"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:245
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1345
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1370
+#: admin/partials/mmqw-add-new-rule-page.php:312
+#: admin/partials/mmqw-add-new-rule-page.php:338
+#: admin/partials/mmqw-add-new-rule-page.php:747
+#: admin/partials/mmqw-add-new-rule-page.php:773
+msgid "Cart Specific"
+msgstr "Warenkorbspezifisch"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:248
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1283
+#: admin/partials/mmqw-add-new-rule-page.php:244
+#: admin/partials/mmqw-add-new-rule-page.php:678
+msgid "Category"
+msgstr "Kategorie"
+
+#: admin/partials/mmqw-checkout-settings-page.php:63
+msgid "Checkout Settings"
+msgstr "Checkout-Einstellungen"
+
+#: admin/partials/dots-upgrade-dashboard.php:67
+msgid ""
+"Choose between dropdowns, radio buttons, or the default input field to offer "
+"a smoother and more customizable product selection experience."
+msgstr ""
+"Wählen Sie zwischen Dropdowns, Optionsfeldern oder dem Standardeingabefeld, "
+"um eine reibungslosere und anpassbarere Produktauswahl zu ermöglichen."
+
+#: admin/partials/dots-upgrade-popup.php:61
+msgid "Choose flexible quantity selector options for a better experience."
+msgstr "Wählen Sie flexible Mengenauswahloptionen für ein besseres Erlebnis."
+
+#: admin/partials/dots-upgrade-dashboard.php:70
+msgid ""
+"Choose from various input types, including dropdowns, radio buttons, or the "
+"standard number input field. This allows for an intuitive selection of "
+"quantities tailored to your store’s preferences."
+msgstr ""
+"Wählen Sie aus verschiedenen Eingabetypen, darunter Dropdown-Listen, "
+"Optionsfelder oder das Standard-Zahleneingabefeld. Dies ermöglicht eine "
+"intuitive Mengenauswahl, die auf die Vorlieben Ihres Geschäfts zugeschnitten "
+"ist."
+
+#: admin/partials/dots-upgrade-dashboard.php:184
+msgid "Close"
+msgstr "Schließen"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1223
+#: admin/partials/mmqw-add-new-rule-page.php:156
+#: admin/partials/mmqw-add-new-rule-page.php:601
+msgid "Conditions"
+msgstr "Bedingungen"
+
+#: admin/partials/mmqw-add-new-rule-page.php:65
+msgid "Configuration"
+msgstr "Aufbau"
+
+#: admin/partials/dots-plugin-setup-wizard.php:29
+#: admin/partials/dots-plugin-setup-wizard.php:57
+#: admin/partials/dots-plugin-setup-wizard.php:70
+#: admin/partials/dots-plugin-setup-wizard.php:115
+msgid "Continue"
+msgstr "Weitermachen"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:233
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:249
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1328
+#: admin/partials/mmqw-add-new-rule-page.php:290
+#: admin/partials/mmqw-add-new-rule-page.php:724
+msgid "Country"
+msgstr "Land"
+
+#: admin/partials/dots-upgrade-dashboard.php:109
+msgid ""
+"Create unique quantity rules tailored to individual users or user roles, "
+"offering a customized shopping experience."
+msgstr ""
+"Erstellen Sie einzigartige Mengenregeln, die auf einzelne Benutzer oder "
+"Benutzerrollen zugeschnitten sind und so ein individuelles Einkaufserlebnis "
+"bieten."
+
+#: admin/partials/dots-upgrade-dashboard.php:113
+msgid ""
+"Create user-specific rules that impose special quantity conditions for "
+"certain customers, offering a unique shopping experience."
+msgstr ""
+"Erstellen Sie benutzerspezifische Regeln, die für bestimmte Kunden besondere "
+"Mengenkonditionen festlegen und so ein einzigartiges Einkaufserlebnis bieten."
+
+#: admin/partials/dots-upgrade-dashboard.php:268
+msgid "Customer Profile Image"
+msgstr "Kundenprofilbild"
+
+#: admin/partials/dots-upgrade-dashboard.php:98
+msgid "Customize product quantities based on specific cart conditions."
+msgstr ""
+"Passen Sie die Produktmengen basierend auf bestimmten Warenkorbbedingungen "
+"an."
+
+#: admin/partials/dots-upgrade-dashboard.php:81
+msgid ""
+"Customize quantity settings for individual products based on stock, sales "
+"price, product age, and more to optimize the user experience."
+msgstr ""
+"Passen Sie die Mengeneinstellungen für einzelne Produkte basierend auf "
+"Lagerbestand, Verkaufspreis, Produktalter und mehr an, um das "
+"Benutzererlebnis zu optimieren."
+
+#: admin/list-tables/class-min-max-rule-list-table.php:37
+msgid "Date"
+msgstr "Datum"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1460
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1497
+#: admin/partials/mmqw-add-new-rule-page.php:514
+#: admin/partials/mmqw-add-new-rule-page.php:552
+#: admin/partials/mmqw-add-new-rule-page.php:882
+#: admin/partials/mmqw-add-new-rule-page.php:918
+msgid "Default Input"
+msgstr "Standardeingabe"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1448
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1483
+#: admin/partials/mmqw-add-new-rule-page.php:499
+#: admin/partials/mmqw-add-new-rule-page.php:537
+#: admin/partials/mmqw-add-new-rule-page.php:868
+#: admin/partials/mmqw-add-new-rule-page.php:904
+msgid "Default Quantity"
+msgstr "Standardmenge"
+
+#: admin/partials/dots-upgrade-dashboard.php:52
+msgid "Default Quantity & Step Increments"
+msgstr "Standardmenge und Schrittabstufungen"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:274
+msgid "Default quantity should greater or equal to min quantity "
+msgstr "Die Standardmenge sollte größer oder gleich der Mindestmenge sein"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:275
+msgid "Default quantity should less or equal to max quantity"
+msgstr "Die Standardmenge sollte kleiner oder gleich der Höchstmenge sein"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:239
+#: admin/list-tables/class-min-max-rule-list-table.php:340
+#: admin/list-tables/class-min-max-rule-list-table.php:405
+#: admin/partials/mmqw-add-new-rule-page.php:949
+msgid "Delete"
+msgstr "Löschen"
+
+#: admin/list-tables/class-min-max-rule-list-table.php:403
+msgid "Disable"
+msgstr "Deaktivieren"
+
+#: admin/partials/dots-upgrade-dashboard.php:171
+msgid "Discover Our Top Key Features"
+msgstr "Entdecken Sie unsere wichtigsten Hauptmerkmale"
+
+#: admin/partials/dots-upgrade-dashboard.php:149
+msgid "Display Applied Rules on Product & Cart Pages"
+msgstr "Angewendete Regeln auf Produkt- und Warenkorbseiten anzeigen"
+
+#: admin/partials/header/plugin-header.php:150
+#: admin/partials/mmqw-display-rules.php:20
+#: admin/partials/mmqw-display-rules__premium_only.php:54
+msgid "Display Rules"
+msgstr "Anzeigeregeln"
+
+#: admin/partials/dots-plugin-setup-wizard.php:90
+msgid "Do the Woo"
+msgstr "Machen Sie das Woo"
+
+#: admin/partials/dots-upgrade-dashboard.php:295
+msgid "Do you offer support for the plugin? What’s it like?"
+msgstr "Bieten Sie Support für das Plugin an? Wie ist es?"
+
+#: admin/partials/dots-plugin-setup-wizard.php:119
+msgid "Done"
+msgstr "Erledigt"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:302
+#| msgid "DotStore Plugins"
+msgid "Dotstore Plugins"
+msgstr "Dotstore Plugins"
+
+#: admin/list-tables/class-min-max-rule-list-table.php:341
+msgid "Duplicate"
+msgstr "Duplikat"
+
+#: admin/partials/dots-upgrade-dashboard.php:259
+msgid "Easy to Use and Did the Promise"
+msgstr "Einfach zu bedienen und hat gehalten, was es versprochen hat"
+
+#: admin/list-tables/class-min-max-rule-list-table.php:339
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: admin/partials/mmqw-checkout-settings-page.php:82
+#: admin/partials/mmqw-checkout-settings-page.php:95
+#: admin/partials/mmqw-checkout-settings-page.php:114
+#: admin/partials/mmqw-checkout-settings-page.php:127
+#: admin/partials/mmqw-checkout-settings-page.php:146
+#: admin/partials/mmqw-checkout-settings-page.php:159
+msgid "eg. 10"
+msgstr "z.B. 10"
+
+#: admin/list-tables/class-min-max-rule-list-table.php:404
+msgid "Enable"
+msgstr "Ermöglichen"
+
+#: admin/partials/mmqw-add-new-rule-page.php:76
+msgid ""
+"Enable or Disable this Min Max rule using this button (This rule only apply "
+"if it is enabled)."
+msgstr ""
+"Aktivieren oder deaktivieren Sie diese Min-Max-Regel mit dieser Schaltfläche "
+"(Diese Regel gilt nur, wenn sie aktiviert ist)."
+
+#: admin/partials/dots-upgrade-dashboard.php:104
+msgid ""
+"Enable special discounts or promotions by linking quantity rules to coupon "
+"usage."
+msgstr ""
+"Ermöglichen Sie spezielle Rabatte oder Werbeaktionen, indem Sie Mengenregeln "
+"mit der Coupon-Nutzung verknüpfen."
+
+#: admin/partials/mmqw-display-rules.php:27
+#: admin/partials/mmqw-display-rules__premium_only.php:61
+msgid "Enable this option to show the rules on the cart page."
+msgstr ""
+"Aktivieren Sie diese Option, um die Regeln auf der Warenkorbseite anzuzeigen."
+
+#: admin/partials/mmqw-display-rules.php:40
+#: admin/partials/mmqw-display-rules__premium_only.php:75
+msgid "Enable this option to show the rules on the product page."
+msgstr ""
+"Aktivieren Sie diese Option, um die Regeln auf der Produktseite anzuzeigen."
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:286
+msgid "End time should be greater than current time"
+msgstr "Die Endzeit sollte größer als die aktuelle Zeit sein"
+
+#: admin/partials/dots-upgrade-dashboard.php:154
+msgid ""
+"Ensure customers are fully aware of the quantity rules, helping them "
+"understand the requirements for their purchases."
+msgstr ""
+"Stellen Sie sicher, dass Kunden die Mengenregeln vollständig kennen, damit "
+"sie die Anforderungen für ihre Einkäufe verstehen."
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:268
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1387
+#: admin/partials/mmqw-add-new-rule-page.php:359
+#: admin/partials/mmqw-add-new-rule-page.php:794
+msgid "Equal to ( = )"
+msgstr "Gleich ( = )"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:903
+msgid "Error saving Min/Max Quantity rule."
+msgstr "Fehler beim Speichern der Mindest-/Maximalmengenregel."
+
+#: admin/partials/dots-upgrade-dashboard.php:112
+msgid ""
+"Establish quantity restrictions that apply to specific users or user roles."
+msgstr ""
+"Legen Sie Mengenbeschränkungen fest, die für bestimmte Benutzer oder "
+"Benutzerrollen gelten."
+
+#: admin/partials/dots-upgrade-popup.php:60
+msgid "Establish time-sensitive quantity rules for promotions."
+msgstr "Legen Sie zeitkritische Mengenregeln für Werbeaktionen fest."
+
+#: admin/list-tables/class-min-max-rule-list-table.php:355
+#: admin/list-tables/class-min-max-rule-list-table.php:386
+msgid "Everywhere"
+msgstr "Überall"
+
+#: admin/partials/mmqw-checkout-settings-page.php:171
+#: admin/partials/mmqw-checkout-settings-page.php:239
+msgid "Exclude Product"
+msgstr "Produkt ausschließen"
+
+#: admin/partials/dots-upgrade-dashboard.php:145
+msgid ""
+"Exclude products like limited-edition releases, clearance items, or seasonal "
+"offers to streamline sales."
+msgstr ""
+"Schließen Sie Produkte wie limitierte Auflagen, Ausverkaufsartikel oder "
+"saisonale Angebote aus, um den Verkauf zu optimieren."
+
+#: public/class-mmqw-for-woocommerce-public.php:1960
+msgid "Excluded Products"
+msgstr "Ausgeschlossene Produkte"
+
+#: admin/partials/dots-upgrade-dashboard.php:137
+msgid ""
+"Exempt specific products from global cart restrictions to accommodate unique "
+"purchasing conditions, such as clearance or seasonal products."
+msgstr ""
+"Befreien Sie bestimmte Produkte von den globalen Warenkorbbeschränkungen, um "
+"besonderen Einkaufsbedingungen Rechnung zu tragen, z. B. Ausverkauf oder "
+"saisonale Produkte."
+
+#: admin/partials/dots-upgrade-dashboard.php:291
+msgid "FAQs"
+msgstr "FAQs"
+
+#: admin/partials/dots-upgrade-dashboard.php:66
+msgid "Flexible Quantity Selector Option"
+msgstr "Flexible Mengenauswahloption"
+
+#: admin/partials/dots-upgrade-dashboard.php:60
+msgid ""
+"For better control, sell products in specific increments, such as 5, 10, and "
+"15."
+msgstr ""
+"Verkaufen Sie zur besseren Kontrolle Produkte in bestimmten Schritten, z. B. "
+"5, 10 und 15."
+
+#: admin/partials/header/plugin-header.php:24
+#: admin/partials/header/plugin-header.php:28
+msgid "Free"
+msgstr "Frei"
+
+#: admin/partials/header/plugin-header.php:144
+msgid "General"
+msgstr "Allgemein"
+
+#: admin/partials/dots-plugin-setup-wizard.php:40
+msgid ""
+"Get improved features and faster fixes by sharing non-sensitive data via "
+"usage-tracking. This will help us make the plugin more compatible with your "
+"site. No personal data is tracked or stored."
+msgstr ""
+"Erhalten Sie verbesserte Funktionen und schnellere Lösungen, indem Sie nicht "
+"vertrauliche Daten über die Nutzungsverfolgung weitergeben. Dies wird uns "
+"helfen, das Plugin besser mit Ihrer Website kompatibel zu machen. Es werden "
+"keine personenbezogenen Daten erfasst oder gespeichert."
+
+#: admin/partials/header/plugin-header.php:120
+msgid "Get Premium"
+msgstr "Holen Sie sich Premium"
+
+#: admin/partials/dots-upgrade-dashboard.php:245
+#: admin/partials/dots-upgrade-dashboard.php:345
+msgid "Get The Premium Version"
+msgstr "Holen Sie sich die Premium-Version"
+
+#: admin/partials/dots-upgrade-dashboard.php:242
+msgid "Great for website owners with a single WooCommerce Store"
+msgstr "Ideal für Websitebesitzer mit einem einzigen WooCommerce-Shop"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:271
+#: admin/partials/mmqw-add-new-rule-page.php:372
+msgid "Greater or Equal to ( >= )"
+msgstr "Größer oder gleich ( >= )"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:269
+#: admin/partials/mmqw-add-new-rule-page.php:378
+msgid "Greater than ( > )"
+msgstr "Größer als ( > )"
+
+#: admin/partials/dots-upgrade-dashboard.php:62
+msgid "Guide customers to buy in the quantities that work best for your store."
+msgstr ""
+"Leiten Sie Kunden dazu an, in den Mengen einzukaufen, die für Ihr Geschäft "
+"am besten geeignet sind."
+
+#: admin/partials/dots-upgrade-dashboard.php:94
+msgid "Handle Cart-Specific Quantities"
+msgstr "Behandeln Sie wagenspezifische Mengen"
+
+#: admin/partials/header/plugin-header.php:75
+msgid "Help"
+msgstr "Hilfe"
+
+#: admin/partials/dots-plugin-setup-wizard.php:39
+msgid "Help us build a better \"Min/Max Quantity\" Plugin!"
+msgstr "Helfen Sie uns, ein besseres „Min/Max Quantity“-Plugin zu entwickeln!"
+
+#: public/class-mmqw-for-woocommerce-public.php:1912
+msgid "Here are the rules added for checkout"
+msgstr "Hier sind die Regeln für den Checkout hinzugefügt"
+
+#: admin/partials/mmqw-checkout-settings-page.php:219
+#: admin/partials/mmqw-checkout-settings-page.php:251
+msgid "Hide Checkout Button"
+msgstr "Schaltfläche „Zur Kasse gehen“ ausblenden"
+
+#: admin/partials/mmqw-checkout-settings-page.php:221
+#: admin/partials/mmqw-checkout-settings-page.php:253
+msgid ""
+"Hide Proceed to Checkout Button on Cart page if min/max quantity validation "
+"fails."
+msgstr ""
+"Blenden Sie die Schaltfläche „Zur Kasse gehen“ auf der Warenkorbseite aus, "
+"wenn die Überprüfung der Mindest-/Höchstmenge fehlschlägt."
+
+#: admin/partials/mmqw-get-started-page.php:12
+msgid "How to Get Started"
+msgstr "So fangen Sie an"
+
+#: admin/partials/dots-upgrade-dashboard.php:328
+msgid "I have more questions…"
+msgstr "Ich habe noch mehr Fragen ..."
+
+#: admin/partials/dots-upgrade-dashboard.php:261
+msgid ""
+"I installed this plugin in order to control a category of small products "
+"that I want to sell above 10 units. It <strong>works very fine</strong> and "
+"is <strong>easy and quick to set up</strong>. I really liked it!"
+msgstr ""
+"Ich habe dieses Plugin installiert, um eine Kategorie kleiner Produkte zu "
+"steuern, die ich über 10 Einheiten verkaufen möchte. Es <strong>funktioniert "
+"sehr gut</strong> und ist <strong>einfach und schnell einzurichten</strong>. "
+"Es hat mir wirklich gut gefallen!"
+
+#: admin/partials/dots-upgrade-dashboard.php:144
+msgid ""
+"Ideal for handling products with unique purchasing conditions while "
+"maintaining overall store policies."
+msgstr ""
+"Ideal für den Umgang mit Produkten mit besonderen Einkaufsbedingungen unter "
+"Beibehaltung der allgemeinen Filialrichtlinien."
+
+#: admin/partials/dots-upgrade-dashboard.php:102
+msgid "Ideal for limiting quantity threshold when offering free shipping."
+msgstr "Ideal zur Begrenzung der Mengenschwelle bei kostenlosem Versand."
+
+#: admin/partials/dots-upgrade-dashboard.php:74
+msgid ""
+"Ideal for simplifying quantity selection in stores with diverse product "
+"ranges."
+msgstr ""
+"Ideal zur Vereinfachung der Mengenauswahl in Geschäften mit vielfältigen "
+"Sortimenten."
+
+#: admin/partials/dots-upgrade-dashboard.php:130
+msgid ""
+"Ideal for time-sensitive promotions or enforcing special purchase limits "
+"during sales periods."
+msgstr ""
+"Ideal für zeitkritische Werbeaktionen oder die Durchsetzung besonderer "
+"Einkaufslimits während der Ausverkaufszeiträume."
+
+#: admin/partials/dots-upgrade-dashboard.php:84
+msgid ""
+"Implement custom quantity rules based on unique product characteristics such "
+"as stock quantity, total sales, sale price, product age, attributes, and "
+"best-seller status."
+msgstr ""
+"Implementieren Sie benutzerdefinierte Mengenregeln basierend auf "
+"einzigartigen Produktmerkmalen wie Lagerbestand, Gesamtumsatz, Verkaufspreis,"
+" Produktalter, Attributen und Bestsellerstatus."
+
+#: admin/partials/dots-upgrade-dashboard.php:114
+msgid ""
+"Implement customized quantity rules tailored to individual customers or user "
+"roles, enhancing their shopping journey."
+msgstr ""
+"Implementieren Sie individuelle Mengenregeln, die auf einzelne Kunden oder "
+"Benutzerrollen zugeschnitten sind, und verbessern Sie so deren "
+"Einkaufserlebnis."
+
+#: admin/partials/dots-upgrade-dashboard.php:158
+msgid ""
+"Inform customers about quantity limits, reducing the likelihood of cart "
+"abandonment at checkout."
+msgstr ""
+"Informieren Sie Kunden über Mengenbeschränkungen und verringern Sie so die "
+"Wahrscheinlichkeit, dass der Warenkorb an der Kasse abgebrochen wird."
+
+#: public/class-mmqw-for-woocommerce-public.php:1947
+msgid "Items Quantity"
+msgstr "Artikelmenge"
+
+#: admin/partials/dots-upgrade-dashboard.php:302
+msgid "knowledge base"
+msgstr "Wissensbasis"
+
+#: admin/partials/dots-plugin-setup-wizard.php:87
+msgid "LearnWoo"
+msgstr "LearnWoo"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:272
+#: admin/partials/mmqw-add-new-rule-page.php:369
+msgid "Less or Equal to ( <= )"
+msgstr "Kleiner oder gleich ( <= )"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:270
+#: admin/partials/mmqw-add-new-rule-page.php:375
+msgid "Less than ( < )"
+msgstr "Weniger als ( < )"
+
+#: admin/partials/header/plugin-header.php:114
+msgid "Licenses"
+msgstr "Lizenzen"
+
+#: admin/partials/dots-upgrade-dashboard.php:131
+msgid ""
+"Limit product quantities during flash sales to control stock and drive "
+"urgency."
+msgstr ""
+"Begrenzen Sie die Produktmengen während Flash-Sales, um den Lagerbestand zu "
+"kontrollieren und die Dringlichkeit zu erhöhen."
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:281
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1340
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1365
+#: admin/partials/mmqw-add-new-rule-page.php:306
+#: admin/partials/mmqw-add-new-rule-page.php:333
+#: admin/partials/mmqw-add-new-rule-page.php:741
+#: admin/partials/mmqw-add-new-rule-page.php:768
+msgid "Limit Section"
+msgstr "Limit-Abschnitt"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:353
+msgid "List Per Page"
+msgstr "Liste pro Seite"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:243
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1326
+#: admin/partials/mmqw-add-new-rule-page.php:288
+#: admin/partials/mmqw-add-new-rule-page.php:722
+msgid "Location Specific"
+msgstr "Standortspezifisch"
+
+#: admin/partials/mmqw-manage-message-page.php:63
+msgid "Manage Messages"
+msgstr "Nachrichten verwalten"
+
+#: admin/partials/mmqw-get-started-page.php:24
+msgid "Manage Min/Max Quantity"
+msgstr "Verwalten Sie die Mindest-/Höchstmenge"
+
+#: admin/partials/dots-upgrade-dashboard.php:136
+msgid "Manage Product Exclusions Effectively"
+msgstr "Produktausschlüsse effektiv verwalten"
+
+#: admin/partials/dots-upgrade-dashboard.php:80
+msgid "Manage Product-Specific Quantities"
+msgstr "Verwalten Sie produktspezifische Mengen"
+
+#: admin/partials/header/plugin-header.php:104
+msgid "Manage Rules"
+msgstr "Regeln verwalten"
+
+#: admin/partials/dots-upgrade-dashboard.php:89
+msgid ""
+"Manage stock for best-sellers by limiting quantities to encourage wider "
+"customer access."
+msgstr ""
+"Verwalten Sie den Bestand an Bestsellern, indem Sie die Mengen begrenzen, um "
+"einen breiteren Kundenzugang zu fördern."
+
+#: admin/partials/dots-upgrade-dashboard.php:271
+msgid "Mauro M."
+msgstr "Mauro M."
+
+#: admin/partials/mmqw-checkout-settings-page.php:152
+msgid "Max Order Item"
+msgstr "Maximale Bestellmenge"
+
+#: admin/partials/mmqw-manage-message-page.php:154
+msgid "Max order item exceeded message"
+msgstr "Nachricht für maximale Bestellposition überschritten"
+
+#: admin/partials/mmqw-checkout-settings-page.php:88
+msgid "Max Order QTY"
+msgstr "Max. Bestellmenge"
+
+#: admin/partials/mmqw-manage-message-page.php:88
+msgid "Max order quantity exceeded message"
+msgstr "Nachricht über die maximale Bestellmenge überschritten"
+
+#: admin/partials/mmqw-checkout-settings-page.php:120
+msgid "Max Order Value"
+msgstr "Maximaler Bestellwert"
+
+#: admin/partials/mmqw-manage-message-page.php:121
+msgid "Max order value exceeded message"
+msgstr "Max. Bestellwert überschritten Nachricht"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1430
+#: admin/partials/mmqw-add-new-rule-page.php:478
+#: admin/partials/mmqw-add-new-rule-page.php:849
+msgid "Max Quantity"
+msgstr "Maximale Menge"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:235
+msgid "Max quantity"
+msgstr "Maximale Menge"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:240
+msgid "Max quantity should be greater or equal to min quantity."
+msgstr "Die maximale Menge sollte größer oder gleich der minimalen Menge sein."
+
+#: public/class-mmqw-for-woocommerce-public.php:1918
+msgid "Maximum"
+msgstr "Maximum"
+
+#: public/class-mmqw-for-woocommerce-public.php:1860
+#: public/class-mmqw-for-woocommerce-public.php:1866
+#: public/class-mmqw-for-woocommerce-public.php:2057
+#: public/class-mmqw-for-woocommerce-public.php:2071
+msgid "Maximum quantity allowed: "
+msgstr "Maximal zulässige Menge:"
+
+#: admin/partials/dots-plugin-setup-wizard.php:94
+msgid "Medium"
+msgstr "Medium"
+
+#: admin/partials/header/plugin-header.php:147
+msgid "Messages"
+msgstr "Mitteilungen"
+
+#: admin/partials/mmqw-checkout-settings-page.php:139
+msgid "Min Order Item"
+msgstr "Mindestbestellmenge"
+
+#: admin/partials/mmqw-manage-message-page.php:141
+msgid "Min order item not reached message"
+msgstr "Nachricht Mindestbestellmenge nicht erreicht"
+
+#: admin/partials/mmqw-checkout-settings-page.php:75
+msgid "Min Order QTY"
+msgstr "Mindestbestellmenge"
+
+#: admin/partials/mmqw-manage-message-page.php:75
+msgid "Min Order quantity not reached message"
+msgstr "Nachricht Mindestbestellmenge nicht erreicht"
+
+#: admin/partials/mmqw-checkout-settings-page.php:107
+msgid "Min Order Value"
+msgstr "Mindestbestellwert"
+
+#: admin/partials/mmqw-manage-message-page.php:108
+msgid "Min order value not reached message"
+msgstr "Nachricht Mindestbestellwert nicht erreicht"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1422
+#: admin/partials/mmqw-add-new-rule-page.php:468
+#: admin/partials/mmqw-add-new-rule-page.php:840
+msgid "Min Quantity"
+msgstr "Mindestmenge"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:234
+msgid "Min quantity"
+msgstr "Mindestmenge"
+
+#: admin/partials/mmqw-checkout-settings-page.php:132
+msgid "Min/Max Order Item"
+msgstr "Min./Max. Bestellartikel"
+
+#: admin/partials/mmqw-checkout-settings-page.php:68
+msgid "Min/Max Order QTY"
+msgstr "Min./Max. Bestellmenge"
+
+#: admin/partials/mmqw-checkout-settings-page.php:100
+msgid "Min/Max Order Value"
+msgstr "Min./Max. Bestellwert"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:477
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:478
+msgid "Min/Max Quantity Rules"
+msgstr "Min/Max-Mengenregeln"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1149
+msgid "Min/max rule has been created."
+msgstr "Min/Max-Regel wurde erstellt."
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1153
+msgid "Min/max rule has been deleted."
+msgstr "Min/Max-Regel wurde gelöscht."
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1157
+msgid "Min/max rule has been disabled."
+msgstr "Min/Max-Regel wurde deaktiviert."
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1155
+msgid "Min/max rule has been duplicated."
+msgstr "Min/Max-Regel wurde dupliziert."
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1159
+msgid "Min/max rule has been enabled."
+msgstr "Min/Max-Regel wurde aktiviert."
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1151
+msgid "Min/max rule has been updated."
+msgstr "Min/Max-Regel wurde aktualisiert."
+
+#: admin/list-tables/class-min-max-rule-list-table.php:35
+#: admin/partials/mmqw-add-new-rule-page.php:88
+msgid "Min/Max Rule Title"
+msgstr "Titel der Min/Max-Regel"
+
+#: admin/partials/mmqw-list-rules-page.php:279
+msgid "Min/Max Rules"
+msgstr "Min/Max-Regeln"
+
+#: public/class-mmqw-for-woocommerce-public.php:1917
+msgid "Minimum"
+msgstr "Minimum"
+
+#: public/class-mmqw-for-woocommerce-public.php:1859
+#: public/class-mmqw-for-woocommerce-public.php:1865
+#: public/class-mmqw-for-woocommerce-public.php:2056
+#: public/class-mmqw-for-woocommerce-public.php:2070
+msgid "Minimum quantity required: "
+msgstr "Erforderliche Mindestmenge:"
+
+#: admin/partials/dots-upgrade-dashboard.php:236
+msgid "month"
+msgstr "Monat"
+
+#: admin/partials/header/plugin-header.php:82
+msgid "My Account"
+msgstr "Mein Konto"
+
+#: admin/partials/dots-plugin-setup-wizard.php:47
+msgid "Never miss an important update"
+msgstr "Verpassen Sie nie wieder ein wichtiges Update"
+
+#: admin/list-tables/class-min-max-rule-list-table.php:250
+msgid "No min/max rule found."
+msgstr "Keine Min/Max-Regel gefunden."
+
+#: admin/partials/dots-upgrade-dashboard.php:334
+msgid "No problem, we’re happy to help! Please reach out at %s."
+msgstr "Kein Problem, wir helfen gerne! Bitte wenden Sie sich an %s."
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:273
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1390
+#: admin/partials/mmqw-add-new-rule-page.php:362
+#: admin/partials/mmqw-add-new-rule-page.php:797
+msgid "Not Equal to ( != )"
+msgstr "Ungleich ( != )"
+
+#: public/class-mmqw-for-woocommerce-public.php:1925
+#: public/class-mmqw-for-woocommerce-public.php:1930
+#: public/class-mmqw-for-woocommerce-public.php:1938
+#: public/class-mmqw-for-woocommerce-public.php:1943
+#: public/class-mmqw-for-woocommerce-public.php:1951
+#: public/class-mmqw-for-woocommerce-public.php:1956
+#: public/class-mmqw-for-woocommerce-public.php:1965
+msgid "Not specified"
+msgstr "Nicht angegeben"
+
+#: admin/partials/dots-upgrade-dashboard.php:117
+msgid "Offer bulk purchasing exclusively to wholesale buyers or VIP members."
+msgstr ""
+"Bieten Sie Großeinkäufe ausschließlich Großhandelskäufern oder VIP-"
+"Mitgliedern an."
+
+#: admin/partials/dots-plugin-setup-wizard.php:48
+msgid ""
+"Opt-in to get email notifications for security & feature updates and to "
+"share some important WooCommerce updates. This will help us make the plugin "
+"more compatible with your version and better at doing what you need it to. "
+"No personal data is tracked or stored."
+msgstr ""
+"Melden Sie sich an, um E-Mail-Benachrichtigungen zu Sicherheits- und "
+"Funktionsupdates zu erhalten und einige wichtige WooCommerce-Updates zu "
+"teilen. Dies wird uns dabei helfen, das Plugin besser mit Ihrer Version "
+"kompatibel zu machen und es besser in der Lage zu machen, das zu tun, was "
+"Sie brauchen. Es werden keine personenbezogenen Daten erfasst oder "
+"gespeichert."
+
+#: admin/partials/mmqw-manage-message-page.php:134
+msgid "Order item rules message"
+msgstr "Nachricht zu Bestellartikelregeln"
+
+#: public/class-mmqw-for-woocommerce-public.php:1921
+msgid "Order Quantity"
+msgstr "Bestellmenge"
+
+#: admin/partials/mmqw-manage-message-page.php:68
+msgid "Order quantity rules message"
+msgstr "Nachricht zu Bestellmengenregeln"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:241
+msgid "Order saved successfully"
+msgstr "Bestellung erfolgreich gespeichert"
+
+#: public/class-mmqw-for-woocommerce-public.php:1934
+msgid "Order Value"
+msgstr "Bestellwert"
+
+#: admin/partials/mmqw-manage-message-page.php:101
+msgid "Order value rules message"
+msgstr "Nachricht zu Bestellwertregeln"
+
+#: admin/partials/mmqw-checkout-settings-page.php:164
+msgid "Other Checkout Options"
+msgstr "Andere Checkout-Optionen"
+
+#: admin/partials/dots-plugin-setup-wizard.php:95
+msgid "Others"
+msgstr "Andere"
+
+#: admin/partials/dots-upgrade-dashboard.php:237
+msgid "Pay $%s today. Renews in 12 months."
+msgstr "Zahlen Sie noch heute $%s. Verlängert sich in 12 Monaten."
+
+#: admin/partials/dots-upgrade-dashboard.php:88
+msgid ""
+"Perfect for controlling inventory levels during seasonal sales or limited-"
+"time offers."
+msgstr ""
+"Perfekt für die Kontrolle der Lagerbestände bei saisonalen Ausverkäufen oder "
+"zeitlich begrenzten Angeboten."
+
+#: admin/partials/dots-upgrade-dashboard.php:61
+msgid "Perfect for packaging, shipping, and production needs."
+msgstr "Perfekt für Verpackungs-, Versand- und Produktionsanforderungen."
+
+#: admin/partials/dots-upgrade-dashboard.php:157
+msgid ""
+"Perfect for stores with strict purchase conditions, making it easy for "
+"customers to understand order requirements."
+msgstr ""
+"Perfekt für Geschäfte mit strengen Einkaufsbedingungen, damit Kunden die "
+"Bestellanforderungen leicht verstehen können."
+
+#: admin/partials/dots-upgrade-dashboard.php:230
+msgid "Personal"
+msgstr "Persönlich"
+
+#: admin/partials/dots-upgrade-dashboard.php:228
+msgid "Personal Plan"
+msgstr "Persönlicher Plan"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:284
+msgid "Please add valid end time and start time"
+msgstr "Bitte geben Sie eine gültige End- und Startzeit an"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:236
+msgid "Please enter 3 or more characters"
+msgstr "Bitte geben Sie 3 oder mehr Zeichen ein"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:242
+msgid "Please fill some required fields in the Advanced Rules section."
+msgstr ""
+"Bitte füllen Sie einige Pflichtfelder im Abschnitt „Erweiterte Regeln“ aus."
+
+#: admin/partials/mmqw-display-rules.php:74
+#: admin/partials/mmqw-display-rules__premium_only.php:110
+msgid "Please note the following rules:"
+msgstr "Bitte beachten Sie folgende Regeln:"
+
+#: admin/partials/mmqw-get-started-page.php:29
+msgid "Plugin Tour"
+msgstr "Plugin-Tour"
+
+#: admin/partials/mmqw-display-rules.php:52
+#: admin/partials/mmqw-display-rules__premium_only.php:88
+msgid "Position on product page"
+msgstr "Position auf der Produktseite"
+
+#. translators: %s: Number of posts.
+#: admin/list-tables/class-min-max-rule-list-table.php:154
+msgctxt "posts"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Alle <span class=\"count\">(%s)</span>"
+msgstr[1] "Alle <span class=\"count\">(%s)</span>"
+
+#: admin/partials/header/plugin-header.php:21
+msgid "Pro"
+msgstr "Profi"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:246
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1277
+#: admin/partials/mmqw-add-new-rule-page.php:238
+#: admin/partials/mmqw-add-new-rule-page.php:672
+msgid "Product"
+msgstr "Produkt"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:253
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1297
+#: admin/partials/mmqw-add-new-rule-page.php:258
+#: admin/partials/mmqw-add-new-rule-page.php:692
+#| msgid "Product Name"
+msgid "Product Age"
+msgstr "Produktalter"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:262
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1316
+#: admin/partials/mmqw-add-new-rule-page.php:277
+#: admin/partials/mmqw-add-new-rule-page.php:711
+msgid "Product Age 🔒"
+msgstr "Produktalter 🔒"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:255
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1303
+#: admin/partials/mmqw-add-new-rule-page.php:264
+#: admin/partials/mmqw-add-new-rule-page.php:698
+msgid "Product Attributes"
+msgstr "Produktattribute"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:264
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1322
+#: admin/partials/mmqw-add-new-rule-page.php:283
+#: admin/partials/mmqw-add-new-rule-page.php:717
+msgid "Product Attributes 🔒"
+msgstr "Produktattribute 🔒"
+
+#: public/class-mmqw-for-woocommerce-public.php:2190
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr "Menge"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:244
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1275
+#: admin/partials/mmqw-add-new-rule-page.php:236
+#: admin/partials/mmqw-add-new-rule-page.php:670
+msgid "Product Specific"
+msgstr "Produktspezifisch"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1456
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1492
+#: admin/partials/mmqw-add-new-rule-page.php:510
+#: admin/partials/mmqw-add-new-rule-page.php:548
+#: admin/partials/mmqw-add-new-rule-page.php:878
+#: admin/partials/mmqw-add-new-rule-page.php:914
+msgid "Quantity Selector"
+msgstr "Mengenauswahl"
+
+#: public/class-mmqw-for-woocommerce-public.php:118
+msgid "Quantity: "
+msgstr "Menge: "
+
+#: admin/partials/dots-plugin-setup-wizard.php:64
+#: admin/partials/dots-plugin-setup-wizard.php:66
+msgid "Quick Tour"
+msgstr "Kurze Tour"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1466
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1503
+#: admin/partials/mmqw-add-new-rule-page.php:520
+#: admin/partials/mmqw-add-new-rule-page.php:558
+#: admin/partials/mmqw-add-new-rule-page.php:888
+#: admin/partials/mmqw-add-new-rule-page.php:924
+msgid "Radio Button"
+msgstr "Optionsfeld"
+
+#: admin/partials/mmqw-get-started-page.php:25
+msgid "Read the Setup Guide"
+msgstr "Lesen Sie die Installationsanleitung"
+
+#: admin/partials/dots-upgrade-dashboard.php:71
+msgid ""
+"Replace the default quantity selector with radio buttons or dropdowns for a "
+"more user-friendly experience."
+msgstr ""
+"Ersetzen Sie die Standardmengenauswahl durch Optionsfelder oder Dropdown-"
+"Listen für eine benutzerfreundlichere Erfahrung."
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1243
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1262
+#: admin/partials/mmqw-add-new-rule-page.php:179
+#: admin/partials/mmqw-add-new-rule-page.php:199
+#: admin/partials/mmqw-add-new-rule-page.php:624
+#: admin/partials/mmqw-add-new-rule-page.php:644
+msgid "rule match"
+msgstr "Regelübereinstimmung"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1011
+msgid "Rule status changed successfully."
+msgstr "Regelstatus erfolgreich geändert."
+
+#: admin/partials/mmqw-add-new-rule-page.php:97
+msgid "Rule title"
+msgstr "Titel der Regel"
+
+#: public/class-mmqw-for-woocommerce-public.php:1916
+msgid "Rules"
+msgstr "Regeln"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:252
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1294
+#: admin/partials/mmqw-add-new-rule-page.php:255
+#: admin/partials/mmqw-add-new-rule-page.php:689
+msgid "Sale Price"
+msgstr "Verkaufspreis"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:261
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1313
+#: admin/partials/mmqw-add-new-rule-page.php:274
+#: admin/partials/mmqw-add-new-rule-page.php:708
+msgid "Sale Price 🔒"
+msgstr "Verkaufspreis 🔒"
+
+#: admin/partials/mmqw-add-new-rule-page.php:58
+#: admin/partials/mmqw-checkout-settings-page.php:39
+#: admin/partials/mmqw-display-rules.php:13
+#: admin/partials/mmqw-display-rules__premium_only.php:35
+#: admin/partials/mmqw-manage-message-page.php:38
+msgid "Save changes"
+msgstr "Änderungen speichern"
+
+#: admin/partials/mmqw-list-rules-page.php:283
+msgid "Save Order"
+msgstr "Bestellung speichern"
+
+#: admin/partials/dots-plugin-setup-wizard.php:86
+msgid "Search Engine"
+msgstr "Suchmaschine"
+
+#: admin/partials/mmqw-list-rules-page.php:291
+msgid "Search Min/Max Rule"
+msgstr "Min/Max-Regel suchen"
+
+#: admin/partials/mmqw-list-rules-page.php:289
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Suchergebnisse für &#8220;%s&#8221;"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:238
+msgid "Select Category"
+msgstr "Kategorie wählen"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1463
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1500
+#: admin/partials/mmqw-add-new-rule-page.php:517
+#: admin/partials/mmqw-add-new-rule-page.php:555
+#: admin/partials/mmqw-add-new-rule-page.php:885
+#: admin/partials/mmqw-add-new-rule-page.php:921
+msgid "Select Dropdown"
+msgstr "Wählen Sie Dropdown aus"
+
+#: admin/partials/dots-plugin-setup-wizard.php:84
+msgid "Select One"
+msgstr "Wählen Sie Eins aus"
+
+#: admin/partials/mmqw-checkout-settings-page.php:172
+#: admin/partials/mmqw-checkout-settings-page.php:241
+msgid "Select product to exclude from min/max quantity validation."
+msgstr ""
+"Wählen Sie das Produkt aus, das von der Mindest-/Höchstmengenvalidierung "
+"ausgeschlossen werden soll."
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:237
+msgid "Select some options"
+msgstr "Wählen Sie einige Optionen aus"
+
+#: admin/partials/dots-upgrade-dashboard.php:140
+msgid ""
+"Select specific products to be exempt from global cart restrictions. This "
+"feature allows special items or promotions to bypass certain rules while "
+"maintaining them for others."
+msgstr ""
+"Wählen Sie bestimmte Produkte aus, die von den globalen "
+"Warenkorbbeschränkungen ausgenommen werden sollen. Mit dieser Funktion "
+"können spezielle Artikel oder Werbeaktionen bestimmte Regeln umgehen, "
+"während sie für andere beibehalten werden."
+
+#: admin/partials/mmqw-display-rules.php:53
+#: admin/partials/mmqw-display-rules__premium_only.php:89
+msgid "Select the position to show the rules on the product page."
+msgstr ""
+"Wählen Sie die Position aus, an der die Regeln auf der Produktseite "
+"angezeigt werden sollen."
+
+#: admin/partials/dots-upgrade-dashboard.php:56
+msgid ""
+"Set default input values and step increments for each product. Control the "
+"initial quantity and the increments for a smoother product selection "
+"experience."
+msgstr ""
+"Legen Sie für jedes Produkt Standardeingabewerte und Schrittinkremente fest. "
+"Kontrollieren Sie die Anfangsmenge und die Inkremente für eine "
+"reibungslosere Produktauswahl."
+
+#: admin/partials/dots-upgrade-popup.php:58
+msgid "Set default quantities and step increments for products."
+msgstr "Legen Sie Standardmengen und Schrittabstufungen für Produkte fest."
+
+#: admin/partials/dots-upgrade-dashboard.php:132
+msgid ""
+"Set limits for seasonal promotions to ensure product availability while "
+"maximizing sales."
+msgstr ""
+"Legen Sie Grenzen für saisonale Werbeaktionen fest, um die "
+"Produktverfügbarkeit sicherzustellen und gleichzeitig den Umsatz zu "
+"maximieren."
+
+#: admin/partials/dots-upgrade-dashboard.php:108
+msgid "Set Personalized User-Specific Rules"
+msgstr "Legen Sie personalisierte benutzerspezifische Regeln fest"
+
+#: admin/partials/dots-upgrade-dashboard.php:53
+msgid ""
+"Set predefined default quantities and step increments to simplify the "
+"product selection process for your customers."
+msgstr ""
+"Legen Sie vordefinierte Standardmengen und Schrittabstufungen fest, um den "
+"Produktauswahlprozess für Ihre Kunden zu vereinfachen."
+
+#: admin/partials/dots-upgrade-dashboard.php:123
+msgid ""
+"Set quantity limits that apply during specific time frames, creating urgency "
+"by defining start and end times."
+msgstr ""
+"Legen Sie Mengengrenzen fest, die für bestimmte Zeiträume gelten, und sorgen "
+"Sie durch die Definition von Start- und Endzeiten für Dringlichkeit."
+
+#: admin/partials/dots-upgrade-dashboard.php:118
+msgid ""
+"Set special quantity limits for new users to encourage larger first-time "
+"orders."
+msgstr ""
+"Legen Sie spezielle Mengenlimits für neue Benutzer fest, um größere "
+"Erstbestellungen zu fördern."
+
+#: admin/partials/dots-upgrade-dashboard.php:126
+msgid ""
+"Set specific start and end times to control quantity limits within a defined "
+"timeframe."
+msgstr ""
+"Legen Sie spezifische Start- und Endzeiten fest, um Mengengrenzen innerhalb "
+"eines definierten Zeitrahmens zu kontrollieren."
+
+#: admin/partials/header/plugin-header.php:108
+#: includes/class-mmqw-for-woocommerce.php:386
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: admin/partials/mmqw-checkout-settings-page.php:56
+#: admin/partials/mmqw-display-rules__premium_only.php:48
+#: admin/partials/mmqw-manage-message-page.php:57
+msgid "Settings saved successfully."
+msgstr "Einstellungen erfolgreich gespeichert."
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:257
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1353
+#: admin/partials/mmqw-add-new-rule-page.php:320
+#: admin/partials/mmqw-add-new-rule-page.php:755
+msgid "Shipping Method"
+msgstr "Versandart"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:266
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1378
+#: admin/partials/mmqw-add-new-rule-page.php:346
+#: admin/partials/mmqw-add-new-rule-page.php:781
+msgid "Shipping Method 🔒"
+msgstr "Versandart 🔒"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:258
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1350
+#: admin/partials/mmqw-add-new-rule-page.php:317
+#: admin/partials/mmqw-add-new-rule-page.php:752
+msgid "Shipping Zone"
+msgstr "Versandzone"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:267
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1375
+#: admin/partials/mmqw-add-new-rule-page.php:343
+#: admin/partials/mmqw-add-new-rule-page.php:778
+msgid "Shipping Zone 🔒"
+msgstr "Versandzone 🔒"
+
+#: admin/partials/dots-upgrade-dashboard.php:150
+msgid ""
+"Show applied rules on product and cart pages and manage checkout behavior. "
+"You can also hide the checkout button if conditions aren’t met."
+msgstr ""
+"Zeigen Sie angewendete Regeln auf Produkt- und Warenkorbseiten an und "
+"verwalten Sie das Checkout-Verhalten. Sie können die Schaltfläche „Zur Kasse "
+"gehen“ auch ausblenden, wenn die Bedingungen nicht erfüllt sind."
+
+#: admin/partials/mmqw-display-rules.php:26
+#: admin/partials/mmqw-display-rules__premium_only.php:60
+msgid "Show rules on cart page"
+msgstr "Regeln auf der Warenkorbseite anzeigen"
+
+#: admin/partials/mmqw-display-rules.php:39
+#: admin/partials/mmqw-display-rules__premium_only.php:74
+msgid "Show rules on product page"
+msgstr "Regeln auf der Produktseite anzeigen"
+
+#: admin/partials/dots-plugin-setup-wizard.php:85
+msgid "Social Media"
+msgstr "Social Media"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:987
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1013
+msgid "Something went wrong"
+msgstr "Etwas ist schief gelaufen"
+
+#: public/class-mmqw-for-woocommerce-public.php:1154
+msgid "Sorry! you reached maximum limit for this product!"
+msgstr ""
+"Es tut uns leid! Sie haben das maximale Limit für dieses Produkt erreicht!"
+
+#: admin/partials/dots-upgrade-dashboard.php:57
+msgid ""
+"Specify a default starting quantity and step value to determine how the "
+"quantity adjusts as customers change."
+msgstr ""
+"Geben Sie eine Standardanfangsmenge und einen Schrittwert an, um zu "
+"bestimmen, wie sich die Menge an veränderte Kunden anpasst."
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:285
+msgid "Start time should be greater than current time"
+msgstr "Die Startzeit sollte größer als die aktuelle Zeit sein"
+
+#: admin/list-tables/class-min-max-rule-list-table.php:36
+#: admin/partials/mmqw-add-new-rule-page.php:75
+msgid "Status"
+msgstr "Status"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1440
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1474
+#: admin/partials/mmqw-add-new-rule-page.php:489
+#: admin/partials/mmqw-add-new-rule-page.php:527
+#: admin/partials/mmqw-add-new-rule-page.php:859
+#: admin/partials/mmqw-add-new-rule-page.php:895
+msgid "Step Quantity"
+msgstr ""
+"Schrittmenge\n"
+
+#: public/class-mmqw-for-woocommerce-public.php:1861
+#: public/class-mmqw-for-woocommerce-public.php:1867
+#: public/class-mmqw-for-woocommerce-public.php:2058
+#: public/class-mmqw-for-woocommerce-public.php:2072
+msgid "Step quantity: "
+msgstr "Schrittmenge :"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:251
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1291
+#: admin/partials/mmqw-add-new-rule-page.php:252
+#: admin/partials/mmqw-add-new-rule-page.php:686
+msgid "Stock Quantity"
+msgstr "Lagermenge"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:260
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1310
+#: admin/partials/mmqw-add-new-rule-page.php:271
+#: admin/partials/mmqw-add-new-rule-page.php:705
+msgid "Stock Quantity 🔒"
+msgstr "Lagermenge 🔒"
+
+#: admin/partials/header/plugin-header.php:72
+msgid "Suggest"
+msgstr "Vorschlagen"
+
+#: admin/partials/header/plugin-header.php:69
+#: includes/class-mmqw-for-woocommerce.php:387
+msgid "Support"
+msgstr "Unterstützung"
+
+#: admin/partials/dots-upgrade-dashboard.php:303
+msgid "support ticket"
+msgstr "Support-Ticket"
+
+#: admin/partials/dots-upgrade-dashboard.php:90
+msgid ""
+"Tailor promotions for clearance items to boost sales while ensuring stock "
+"turnover."
+msgstr ""
+"Passen Sie Sonderaktionen für Ausverkaufsartikel an, um den Umsatz "
+"anzukurbeln und gleichzeitig den Lagerumschlag sicherzustellen."
+
+#: admin/partials/dots-plugin-setup-wizard.php:26
+msgid ""
+"Take complete control of product quantities with min/max quantity limits. "
+"Streamline inventory management and enhanced customer experience!"
+msgstr ""
+"Übernehmen Sie die vollständige Kontrolle über die Produktmengen mit Mindest-"
+"/Höchstmengenbegrenzungen. Optimieren Sie die Bestandsverwaltung und "
+"verbessern Sie das Kundenerlebnis!"
+
+#: admin/partials/mmqw-display-rules.php:69
+#: admin/partials/mmqw-display-rules__premium_only.php:105
+msgid "Text before rules"
+msgstr "Text vor Regeln"
+
+#: admin/partials/mmqw-get-started-page.php:14
+msgid ""
+"Thank you for choosing our top-rated WooCommerce Min/Max Quantity plugin. "
+"Our user-friendly interface gives you complete control over product "
+"quantities, ensuring a seamless shopping experience for your customers."
+msgstr ""
+"Vielen Dank, dass Sie sich für unser erstklassiges WooCommerce Min/Max "
+"Quantity-Plugin entschieden haben. Unsere benutzerfreundliche Oberfläche "
+"gibt Ihnen die vollständige Kontrolle über die Produktmengen und sorgt so "
+"für ein nahtloses Einkaufserlebnis für Ihre Kunden."
+
+#: admin/partials/mmqw-manage-message-page.php:94
+#: public/class-mmqw-for-woocommerce-public.php:732
+#: public/class-mmqw-for-woocommerce-public.php:1172
+msgid ""
+"The maximum allows order quantity is {MAX_ORDER_QTY} and you have {ORDER_QTY}"
+" in your cart."
+msgstr ""
+"Die maximal zulässige Bestellmenge beträgt {MAX_ORDER_QTY} und Sie haben "
+"{ORDER_QTY} in Ihrem Warenkorb."
+
+#: admin/partials/mmqw-manage-message-page.php:127
+#: public/class-mmqw-for-woocommerce-public.php:735
+msgid ""
+"The maximum cart value required is {MAX_CART_VALUE} and you have {CART_VALUE}"
+" in your cart."
+msgstr ""
+"Der maximal erforderliche Warenkorbwert beträgt {MAX_CART_VALUE} und Sie "
+"haben {CART_VALUE} in Ihrem Warenkorb."
+
+#: admin/partials/mmqw-manage-message-page.php:160
+#: public/class-mmqw-for-woocommerce-public.php:738
+msgid ""
+"The maximum order item should be {MAX_ORDER_ITEM} for each product in your "
+"cart."
+msgstr ""
+"Die maximale Bestellmenge sollte {MAX_ORDER_ITEM} für jedes Produkt in Ihrem "
+"Warenkorb betragen."
+
+#: admin/partials/mmqw-manage-message-page.php:81
+#: public/class-mmqw-for-woocommerce-public.php:731
+#: public/class-mmqw-for-woocommerce-public.php:1171
+msgid ""
+"The minimum allows order quantity is {MIN_ORDER_QTY} and you have {ORDER_QTY}"
+" in your cart."
+msgstr ""
+"Die zulässige Mindestbestellmenge beträgt {MIN_ORDER_QTY} und Sie haben "
+"{ORDER_QTY} in Ihrem Warenkorb."
+
+#: admin/partials/mmqw-manage-message-page.php:114
+#: public/class-mmqw-for-woocommerce-public.php:734
+msgid ""
+"The minimum cart value required is {MIN_CART_VALUE} and you have {CART_VALUE}"
+" in your cart."
+msgstr ""
+"Der erforderliche Mindestwert für den Warenkorb beträgt {MIN_CART_VALUE} und "
+"Sie haben {CART_VALUE} in Ihrem Warenkorb."
+
+#: admin/partials/mmqw-manage-message-page.php:147
+#: public/class-mmqw-for-woocommerce-public.php:737
+msgid ""
+"The minimum order item required is {MIN_ORDER_ITEM} for each product in your "
+"cart."
+msgstr ""
+"Die erforderliche Mindestbestellmenge beträgt {MIN_ORDER_ITEM} für jedes "
+"Produkt in Ihrem Warenkorb."
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1162
+msgid "There was an error with saving data."
+msgstr "Beim Speichern der Daten ist ein Fehler aufgetreten."
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1164
+msgid "There was an error with security check."
+msgstr "Bei der Sicherheitsüberprüfung ist ein Fehler aufgetreten."
+
+#: admin/partials/dots-upgrade-dashboard.php:85
+msgid "This allows for granular control over specific items in your store."
+msgstr ""
+"Dies ermöglicht eine detaillierte Kontrolle über bestimmte Artikel in Ihrem "
+"Geschäft."
+
+#: admin/partials/dots-upgrade-dashboard.php:99
+msgid ""
+"This allows you to configure rules that respond to key cart details such as "
+"selected shipping methods, shipping zones, and active promotions, enhancing "
+"customer satisfaction."
+msgstr ""
+"Auf diese Weise können Sie Regeln konfigurieren, die auf wichtige "
+"Warenkorbdetails wie ausgewählte Versandmethoden, Versandzonen und aktive "
+"Werbeaktionen reagieren und so die Kundenzufriedenheit steigern."
+
+#: admin/partials/dots-upgrade-dashboard.php:127
+msgid ""
+"This ensures that your quantity limits apply only when desired, enhancing "
+"the effectiveness of time-sensitive offers."
+msgstr ""
+"Dadurch wird sichergestellt, dass Ihre Mengenbeschränkungen nur dann gelten, "
+"wenn dies gewünscht ist, was die Effektivität zeitkritischer Angebote erhöht."
+
+#: admin/partials/dots-upgrade-dashboard.php:153
+msgid ""
+"This feature lets you display applicable rules on the product and cart pages."
+" Global settings will be shown on the cart page, while product-specific "
+"rules will appear on the product page."
+msgstr ""
+"Mit dieser Funktion können Sie geltende Regeln auf den Produkt- und "
+"Warenkorbseiten anzeigen. Globale Einstellungen werden auf der "
+"Warenkorbseite angezeigt, während produktspezifische Regeln auf der "
+"Produktseite angezeigt werden."
+
+#: admin/partials/mmqw-add-new-rule-page.php:91
+#| msgid "This name will use only for admin purpose"
+msgid "This name will use only for admin purpose."
+msgstr "Dieser Name wird nur für Verwaltungszwecke verwendet."
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:282
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1342
+#: admin/partials/mmqw-add-new-rule-page.php:308
+#: admin/partials/mmqw-add-new-rule-page.php:743
+msgid "Time Frame"
+msgstr "Zeitrahmen"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:283
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1367
+#: admin/partials/mmqw-add-new-rule-page.php:335
+#: admin/partials/mmqw-add-new-rule-page.php:770
+msgid "Time Frame 🔒"
+msgstr "Zeitrahmen 🔒"
+
+#: admin/partials/dots-upgrade-dashboard.php:122
+msgid "Time-Sensitive Quantity Rules"
+msgstr "Zeitkritische Mengenregeln"
+
+#: admin/partials/mmqw-get-started-page.php:18
+msgid ""
+"To help you get started, watch the quick tour video on the right. For more "
+"help, explore our help documents or visit our %s for detailed video "
+"tutorials."
+msgstr ""
+"Um Ihnen den Einstieg zu erleichtern, sehen Sie sich rechts das kurze "
+"Tourvideo an. Für weitere Hilfe sehen Sie sich unsere Hilfedokumente an oder "
+"besuchen Sie %s für detaillierte Video-Tutorials."
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:250
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1288
+#: admin/partials/mmqw-add-new-rule-page.php:249
+#: admin/partials/mmqw-add-new-rule-page.php:683
+msgid "Total Sales"
+msgstr "Gesamtumsatz"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:259
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1307
+#: admin/partials/mmqw-add-new-rule-page.php:268
+#: admin/partials/mmqw-add-new-rule-page.php:702
+msgid "Total Sales 🔒"
+msgstr "Gesamtumsatz 🔒"
+
+#: admin/partials/dots-upgrade-dashboard.php:246
+msgid "Trusted by 100,000+ store owners and WP experts!"
+msgstr "Mehr als 100.000 Ladenbesitzer und WP-Experten vertrauen darauf!"
+
+#: admin/partials/dots-upgrade-popup.php:56
+msgid ""
+"Unlock a world of possibilities for your WooCommerce store with our Premium "
+"Min/Max Quantity plugin!"
+msgstr ""
+"Erschließen Sie eine Welt voller Möglichkeiten für Ihren WooCommerce-Shop "
+"mit unserem Premium-Min/Max-Mengen-Plugin!"
+
+#: admin/partials/dots-upgrade-dashboard.php:167
+msgid ""
+"Unlock premium features to take complete control of your product quantities "
+"and enhance customer experience!"
+msgstr ""
+"Schalten Sie Premium-Funktionen frei, um die vollständige Kontrolle über "
+"Ihre Produktmengen zu erlangen und das Kundenerlebnis zu verbessern!"
+
+#: admin/partials/dots-upgrade-popup.php:52
+msgid "Unlock Premium Features Today!"
+msgstr "Schalten Sie noch heute Premium-Funktionen frei!"
+
+#: admin/partials/dots-upgrade-popup.php:48
+msgid "Unlock Premium Features with a %s%% Discount!"
+msgstr "Schalten Sie Premium-Funktionen mit einem Rabatt von %s%% frei!"
+
+#: admin/partials/dots-upgrade-popup.php:65
+#: admin/partials/header/plugin-header.php:86
+#: admin/partials/header/plugin-header.php:91
+msgid "Upgrade Now"
+msgstr "Jetzt upgraden"
+
+#: admin/partials/dots-upgrade-popup.php:41
+#| msgid "Upgrade To Pro"
+msgid "Upgrade to Pro"
+msgstr "Upgrade to Pro"
+
+#: admin/partials/dots-upgrade-dashboard.php:166
+msgid "Upgrade to Unlock Premium Features"
+msgstr "Führen Sie ein Upgrade durch, um Premium-Funktionen freizuschalten"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:277
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1337
+#: admin/partials/mmqw-add-new-rule-page.php:302
+#: admin/partials/mmqw-add-new-rule-page.php:737
+msgid "User"
+msgstr "Benutzer"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:278
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1334
+#: admin/partials/mmqw-add-new-rule-page.php:299
+#: admin/partials/mmqw-add-new-rule-page.php:734
+msgid "User Role"
+msgstr "Benutzerrolle"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:280
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1359
+#: admin/partials/mmqw-add-new-rule-page.php:327
+#: admin/partials/mmqw-add-new-rule-page.php:762
+msgid "User Role 🔒"
+msgstr "Benutzerrolle 🔒"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:276
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1332
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1357
+#: admin/partials/mmqw-add-new-rule-page.php:297
+#: admin/partials/mmqw-add-new-rule-page.php:325
+#: admin/partials/mmqw-add-new-rule-page.php:732
+#: admin/partials/mmqw-add-new-rule-page.php:760
+msgid "User Specific"
+msgstr "Benutzerspezifisch"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:279
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1362
+#: admin/partials/mmqw-add-new-rule-page.php:330
+#: admin/partials/mmqw-add-new-rule-page.php:765
+msgid "User 🔒"
+msgstr "Benutzer 🔒"
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:247
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1280
+#: admin/partials/mmqw-add-new-rule-page.php:241
+#: admin/partials/mmqw-add-new-rule-page.php:675
+msgid "Variable Product"
+msgstr "Variables Produkt"
+
+#: admin/partials/dots-upgrade-dashboard.php:282
+msgid "Verified Customer"
+msgstr "Verifizierter Kunde"
+
+#: admin/partials/dots-upgrade-dashboard.php:323
+msgid "We have a 14-day money-back guarantee."
+msgstr "Wir haben eine 14-tägige Geld-zurück-Garantie."
+
+#: admin/partials/mmqw-get-started-page.php:13
+msgid "Welcome to Min/Max Quantity Plugin"
+msgstr "Willkommen beim Min/Max Quantity Plugin"
+
+#: admin/partials/dots-plugin-setup-wizard.php:24
+msgid "Welcome! 🤗"
+msgstr "Willkommen! 🤗"
+
+#: admin/partials/dots-upgrade-dashboard.php:312
+msgid "What payment methods do you accept?"
+msgstr "Welche Zahlungsmethoden akzeptieren Sie?"
+
+#: admin/partials/dots-upgrade-dashboard.php:320
+msgid "What’s your refund policy?"
+msgstr "Wie lauten Ihre Rückerstattungsrichtlinien?"
+
+#: admin/partials/dots-plugin-setup-wizard.php:82
+msgid "Would you mind telling how did you hear about us?"
+msgstr ""
+"Würde es Ihnen etwas ausmachen, zu erzählen, wie Sie von uns erfahren haben?"
+
+#: admin/partials/dots-plugin-setup-wizard.php:91
+msgid "WP Mayor"
+msgstr "WP-Bürgermeister"
+
+#: admin/partials/dots-plugin-setup-wizard.php:89
+msgid "WPBeginner"
+msgstr "WPBeginner"
+
+#: admin/partials/dots-plugin-setup-wizard.php:93
+msgid "WPExplorer"
+msgstr "WPExplorer"
+
+#: admin/partials/dots-plugin-setup-wizard.php:88
+msgid "WPLift"
+msgstr "WPLift"
+
+#: admin/partials/dots-upgrade-dashboard.php:301
+msgid ""
+"Yes! You can read our %s or submit a %s. We are very responsive and strive "
+"to do our best to help you."
+msgstr ""
+"Ja! Sie können unser %s lesen oder ein %s einreichen. Wir sind sehr "
+"reaktionsschnell und bemühen uns, unser Bestes zu geben, um Ihnen zu helfen."
+
+#: admin/partials/dots-plugin-setup-wizard.php:42
+#: admin/partials/dots-plugin-setup-wizard.php:50
+msgid "Yes, count me in!"
+msgstr "Ja, zähl mich mit!"
+
+#: admin/partials/dots-plugin-setup-wizard.php:77
+msgid "You are all set, almost!"
+msgstr "Sie sind fast fertig!"
+
+#: admin/partials/dots-upgrade-dashboard.php:255
+msgid ""
+"You are fully protected by our 100% Satisfaction Guarantee. If over the next "
+"14 days you are unhappy with our plugin or have an issue that we are unable "
+"to resolve, we'll happily consider offering a 100% refund of your money."
+msgstr ""
+"Sie sind durch unsere 100 % Zufriedenheitsgarantie vollständig geschützt. "
+"Wenn Sie in den nächsten 14 Tagen mit unserem Plugin unzufrieden sind oder "
+"ein Problem haben, das wir nicht lösen können, erwägen wir gerne eine 100-"
+"prozentige Rückerstattung Ihres Geldes."
+
+#: admin/partials/dots-upgrade-dashboard.php:141
+msgid ""
+"You can choose multiple products from the list to exclude them from the "
+"rules."
+msgstr ""
+"Sie können mehrere Produkte aus der Liste auswählen, um sie von den Regeln "
+"auszuschließen."
+
+#: admin/partials/dots-upgrade-dashboard.php:315
+msgid ""
+"You can pay with your credit card using Stripe checkout. Or your PayPal "
+"account."
+msgstr ""
+"Sie können mit Ihrer Kreditkarte über den Stripe-Checkout bezahlen. Oder Ihr "
+"PayPal-Konto."
+
+#: admin/partials/mmqw-add-new-rule-page.php:507
+#: admin/partials/mmqw-add-new-rule-page.php:545
+#: admin/partials/mmqw-add-new-rule-page.php:875
+#: admin/partials/mmqw-add-new-rule-page.php:911
+msgid "You can set a default product quantity to apply on product detail page."
+msgstr ""
+"Sie können eine Standardproduktmenge festlegen, die auf der "
+"Produktdetailseite angewendet werden soll."
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1452
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1488
+msgid ""
+"You can set a default quantity to apply on product detail page and cart page."
+msgstr ""
+"Sie können eine Standardmenge festlegen, die auf der Produktdetailseite und "
+"der Warenkorbseite angewendet werden soll."
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1434
+#: admin/partials/mmqw-add-new-rule-page.php:485
+#: admin/partials/mmqw-add-new-rule-page.php:855
+msgid ""
+"You can set a maximum product quantity to apply on product detail page and "
+"cart page."
+msgstr ""
+"Sie können eine maximale Produktmenge festlegen, die auf der "
+"Produktdetailseite und auf der Warenkorbseite angewendet werden soll."
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1426
+#: admin/partials/mmqw-add-new-rule-page.php:475
+#: admin/partials/mmqw-add-new-rule-page.php:846
+msgid ""
+"You can set a minimum product quantity to apply on product detail page and "
+"cart page."
+msgstr ""
+"Sie können eine Mindestproduktmenge festlegen, die auf der "
+"Produktdetailseite und auf der Warenkorbseite angewendet werden soll."
+
+#: admin/partials/mmqw-add-new-rule-page.php:496
+#: admin/partials/mmqw-add-new-rule-page.php:534
+#: admin/partials/mmqw-add-new-rule-page.php:865
+#: admin/partials/mmqw-add-new-rule-page.php:901
+msgid ""
+"You can set a step product quantity to apply on product detail page and cart "
+"page."
+msgstr ""
+"Sie können eine schrittweise Produktmenge festlegen, die auf der "
+"Produktdetailseite und der Warenkorbseite angewendet werden soll."
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1444
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1479
+msgid ""
+"You can set a step quantity to apply on product detail page and cart page."
+msgstr ""
+"Sie können eine Schrittmenge festlegen, die auf der Produktdetailseite und "
+"der Warenkorbseite angewendet werden soll."
+
+#: admin/class-min-max-quantity-for-woocommerce-admin.php:1213
+#: admin/partials/mmqw-add-new-rule-page.php:146
+#: admin/partials/mmqw-add-new-rule-page.php:591
+#| msgid ""
+#| "You can turn off this button, if you do not need to apply below min max "
+#| "rules."
+msgid ""
+"You can turn off this button, if you do not need to apply this group's min "
+"max rules."
+msgstr ""
+"Sie können diese Schaltfläche deaktivieren, wenn Sie die Min-Max-Regeln "
+"dieser Gruppe nicht anwenden müssen."
+
+#: admin/partials/mmqw-get-started-page.php:19
+msgid "YouTube channel"
+msgstr "YouTube channel"
